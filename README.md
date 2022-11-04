@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Je suis étudiant un BAC 1 Informatique à l'HELMo Campus Guillemins
+Je suis étudiant en BAC 1 Informatique à l'HELMo Campus Guillemins
